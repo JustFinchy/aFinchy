@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm Amy, a software developer with a knack for tur
 - 🛠️ All projects listed here are owned and developed by me.
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy%20Finch-blue)](https://www.linkedin.com/in/afinchy)
-[![Facebook](https://img.shields.io/badge/Facebook-Amy%20Finch-blue)](https://www.facebook.com/afinchy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy%20Finch-blue)](https://www.linkedin.com/in/JustFinchy)
+[![Facebook](https://img.shields.io/badge/Facebook-Amy%20Finch-blue)](https://www.facebook.com/JustFinchy)
 - Discord Username: afinchy
 
 ## 💼 I'm Open To
@@ -34,27 +34,21 @@ Media Void is the go-to hub for fans of movies, TV shows, games, and more. As fo
 - [🌍 Live Site](https://mediavoid.io/)
 - [🔗 GitHub](https://github.com/MediaVoid)
 
-### 🤖 Skynet Bot
-**Revolutionizing Discord Interactions**
-Skynet Bot enhances the Discord experience with automation and advanced features, fostering connectivity and efficient management.
-- [🌍 Bot Site](https://skynetbot.io)
-- [🔗 GitHub](https://github.com/Discord-Skynet-Bot)
-
 ### 🔒 AnonymZ.io
 **Secure Link Anonymization**
 Dedicated to enhancing online privacy, AnonymZ.io anonymizes links to protect your web activities.
 - [🌍 Service Site](https://anonymz.io/)
-- [🔗 GitHub](https://github.com/Finch-Studio/AnonymZ/)
+- [🔗 GitHub](https://github.com/Afinity-Labs/AnonymZ/)
 
 ### 🌐 Portfolio Template
 **Amy Finch's Portfolio Template**
 Designed for professionals to showcase their work, this template emphasizes speed, efficiency, and responsiveness.
-- [🔗 GitHub](https://github.com/Finch-Studio/Portfolio-Template)
+- [🔗 GitHub](https://github.com/Afinity-Labs/Portfolio-Template)
 
 ### 🌐 Finchy's Linktree Website Template
 **Open-Source Personal and Business Portfolio**
 Clone and customize my personal and business portfolio Linktree website. Ideal for your own projects!
-- [🔗 GitHub](https://github.com/Finch-Studio/LinkTree-Template)
+- [🔗 GitHub](https://github.com/Afinity-Labs/LinkTree-Template)
 
 ## 🛠️ Skills
 - **General Programming**: .NET, Java, JavaScript, TypeScript, Node.js, Express.js, React, Vue.js, Redux, jQuery, Git, Lua, REST APIs, JSON, SQL, MongoDB, Python
@@ -64,7 +58,7 @@ Clone and customize my personal and business portfolio Linktree website. Ideal f
 
 ## 🌐 Links
 - [Amy Finch Official](https://amyfinch.ca)
-- [Finchy Portfolio](https://afinchy.ca)
+- [Finchy Portfolio](https://JustFinchy.ca)
 - [Finch Studio](https://finchstudio.ca)
 
 
