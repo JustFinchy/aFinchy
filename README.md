@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Amy, a software developer with a knack for tur
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amy%20Finch-blue)](https://www.linkedin.com/in/JustFinchy)
 [![Facebook](https://img.shields.io/badge/Facebook-Amy%20Finch-blue)](https://www.facebook.com/JustFinchy)
-- Discord Username: afinchy
+- Discord Username: JustFinchy
 
 ## 💼 I'm Open To
 - Freelance Projects
